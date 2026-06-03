@@ -1,0 +1,226 @@
+symptoms,specialty
+chest pain,Cardiology
+chest pain and sweating,Cardiology
+shortness of breath,Cardiology
+chest tightness,Cardiology
+heart palpitations,Cardiology
+rapid heartbeat,Cardiology
+high blood pressure,Cardiology
+swelling in legs,Cardiology
+fatigue during exercise,Cardiology
+chest pain and dizziness,Cardiology
+
+severe headache,Neurology
+migraine,Neurology
+dizziness,Neurology
+memory loss,Neurology
+numbness in hands,Neurology
+tingling sensation,Neurology
+loss of balance,Neurology
+difficulty speaking,Neurology
+seizure,Neurology
+tremors,Neurology
+headache and blurred vision,Neurology
+
+stomach pain,Gastroenterology
+abdominal pain,Gastroenterology
+acid reflux,Gastroenterology
+constipation,Gastroenterology
+diarrhea,Gastroenterology
+bloating,Gastroenterology
+nausea,Gastroenterology
+vomiting,Gastroenterology
+blood in stool,Gastroenterology
+indigestion,Gastroenterology
+abdominal pain and nausea,Gastroenterology
+
+joint pain,Orthopedics
+knee pain,Orthopedics
+back pain,Orthopedics
+shoulder pain,Orthopedics
+hip pain,Orthopedics
+neck pain,Orthopedics
+bone fracture,Orthopedics
+arthritis pain,Orthopedics
+swollen joints,Orthopedics
+difficulty walking,Orthopedics
+joint pain and stiffness,Orthopedics
+
+skin rash,Dermatology
+itching,Dermatology
+acne,Dermatology
+eczema,Dermatology
+dry skin,Dermatology
+red patches,Dermatology
+fungal infection,Dermatology
+skin allergy,Dermatology
+hair loss,Dermatology
+psoriasis,Dermatology
+skin rash and itching,Dermatology
+
+ear pain,ENT
+hearing loss,ENT
+sore throat,ENT
+runny nose,ENT
+blocked nose,ENT
+sinus infection,ENT
+tonsillitis,ENT
+voice hoarseness,ENT
+ear discharge,ENT
+difficulty swallowing,ENT
+sore throat and fever,ENT
+
+persistent cough,Pulmonology
+wheezing,Pulmonology
+breathing difficulty,Pulmonology
+asthma symptoms,Pulmonology
+lung infection,Pulmonology
+chronic cough,Pulmonology
+cough with mucus,Pulmonology
+chest congestion,Pulmonology
+shortness of breath at night,Pulmonology
+tuberculosis symptoms,Pulmonology
+persistent cough and fever,Pulmonology
+
+eye pain,Ophthalmology
+blurred vision,Ophthalmology
+double vision,Ophthalmology
+red eyes,Ophthalmology
+watery eyes,Ophthalmology
+eye infection,Ophthalmology
+vision loss,Ophthalmology
+eye irritation,Ophthalmology
+light sensitivity,Ophthalmology
+dry eyes,Ophthalmology
+
+depression,Psychiatry
+anxiety,Psychiatry
+panic attacks,Psychiatry
+sleep problems,Psychiatry
+insomnia,Psychiatry
+stress,Psychiatry
+mood swings,Psychiatry
+loss of interest,Psychiatry
+social withdrawal,Psychiatry
+persistent sadness,Psychiatry
+
+burning urination,Urology
+frequent urination,Urology
+blood in urine,Urology
+kidney stone pain,Urology
+lower abdominal pain,Urology
+urinary infection,Urology
+difficulty urinating,Urology
+bladder pain,Urology
+painful urination,Urology
+urinary urgency,Urology
+
+chest pain shortness of breath sweating,Cardiology
+chest pain left arm pain,Cardiology
+heart racing dizziness,Cardiology
+fatigue chest discomfort,Cardiology
+high blood pressure headache,Cardiology
+palpitations anxiety chest pain,Cardiology
+leg swelling breathlessness,Cardiology
+chest heaviness nausea,Cardiology
+rapid heartbeat fainting,Cardiology
+shortness of breath while walking,Cardiology
+
+migraine nausea sensitivity to light,Neurology
+headache dizziness blurred vision,Neurology
+loss of balance dizziness,Neurology
+hand numbness weakness,Neurology
+memory loss confusion,Neurology
+difficulty speaking facial weakness,Neurology
+seizure unconsciousness,Neurology
+tremors shaking hands,Neurology
+chronic headache neck stiffness,Neurology
+vertigo nausea,Neurology
+
+abdominal pain vomiting diarrhea,Gastroenterology
+stomach cramps bloating, Gastroenterology
+acid reflux chest burning,Gastroenterology
+constipation abdominal discomfort,Gastroenterology
+blood in stool abdominal pain,Gastroenterology
+indigestion nausea,Gastroenterology
+loss of appetite stomach pain,Gastroenterology
+upper abdominal pain,Gastroenterology
+food poisoning vomiting,Gastroenterology
+gas bloating discomfort,Gastroenterology
+
+knee pain swelling,Orthopedics
+back pain leg pain,Orthopedics
+joint stiffness morning pain,Orthopedics
+shoulder pain restricted movement,Orthopedics
+hip pain difficulty walking,Orthopedics
+bone fracture swelling,Orthopedics
+arthritis joint pain,Orthopedics
+neck pain numbness,Orthopedics
+ankle injury swelling,Orthopedics
+sports injury knee pain,Orthopedics
+
+skin rash redness itching,Dermatology
+acne oily skin,Dermatology
+eczema dry itchy skin,Dermatology
+fungal infection skin peeling,Dermatology
+hair loss scalp itching,Dermatology
+psoriasis red patches,Dermatology
+allergic skin reaction,Dermatology
+skin pigmentation issue,Dermatology
+hives itching,Dermatology
+skin infection pus,Dermatology
+
+sore throat fever,ENT
+ear pain hearing loss,ENT
+blocked nose sinus pain,ENT
+tonsil swelling fever,ENT
+voice change hoarseness,ENT
+ear discharge itching,ENT
+difficulty swallowing throat pain,ENT
+chronic sinus congestion,ENT
+runny nose sneezing,ENT
+nose bleeding recurrent,ENT
+
+persistent cough wheezing,Pulmonology
+shortness of breath cough,Pulmonology
+asthma attack wheezing,Pulmonology
+chest congestion mucus,Pulmonology
+lung infection fever cough,Pulmonology
+chronic smoker cough,Pulmonology
+difficulty breathing at night,Pulmonology
+cough blood sputum,Pulmonology
+tuberculosis cough weight loss,Pulmonology
+breathlessness climbing stairs,Pulmonology
+
+eye redness pain,Ophthalmology
+blurred vision headache,Ophthalmology
+watery eyes itching,Ophthalmology
+double vision dizziness,Ophthalmology
+eye infection discharge,Ophthalmology
+vision loss sudden,Ophthalmology
+light sensitivity eye pain,Ophthalmology
+dry eyes irritation,Ophthalmology
+foreign body sensation eye,Ophthalmology
+night vision problem,Ophthalmology
+
+anxiety panic attacks,Psychiatry
+depression sadness,Psychiatry
+insomnia stress,Psychiatry
+mood swings irritability,Psychiatry
+loss of interest fatigue,Psychiatry
+social withdrawal anxiety,Psychiatry
+fear nervousness,Psychiatry
+panic attack chest tightness,Psychiatry
+chronic stress sleep issues,Psychiatry
+persistent sadness hopelessness,Psychiatry
+
+burning urination fever,Urology
+blood in urine pain,Urology
+frequent urination urgency,Urology
+kidney stone severe pain,Urology
+urinary infection burning,Urology
+difficulty urinating lower pain,Urology
+bladder pain urgency,Urology
+nighttime frequent urination,Urology
+painful urination blood,Urology
+kidney pain vomiting,Urology
